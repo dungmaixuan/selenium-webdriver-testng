@@ -16,4 +16,12 @@ public class Topic_02_Xpath_Css {
 		
 		
 	}
+    public void TC_04() {
+		
+		
+	}
+    public void TC_05() {
+		
+		
+  	}
 }
